@@ -1,8 +1,8 @@
-# Project Laboratory B
+# Research Project B
 Wake a sleeping student up by using BB8!
 
 ## How to use
-You have to download shape_predictor_68_face_landmarks.dat.bz2
+You have to get shape_predictor_68_face_landmarks.dat to use this program.
 ```
 $ wget http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 $ bzip2 -d shape_predictor_68_face_landmarks.dat.bz2
